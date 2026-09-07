@@ -1,0 +1,59 @@
+{
+    "design_var_width_qubit_1": "400um",
+    "design_var_width_qubit_2": "400um",
+    "design_var_width_qubit_3": "400um",
+    "design_var_width_qubit_4": "400um",
+    "design_var_width_qubit_5": "400um",
+
+    "design_var_lj_qubit_1": "13.0nH",
+    "design_var_lj_qubit_2": "11.5nH",
+    "design_var_lj_qubit_3": "10.0nH",
+    "design_var_lj_qubit_4": "9.0nH",
+    "design_var_lj_qubit_5": "8.0nH",
+
+    "design_var_cj_qubit_1": "0fF",
+    "design_var_cj_qubit_2": "0fF",
+    "design_var_cj_qubit_3": "0fF",
+    "design_var_cj_qubit_4": "0fF",
+    "design_var_cj_qubit_5": "0fF",
+
+    "design_var_length_resonator_1": "7500um",
+    "design_var_length_resonator_2": "7100um",
+    "design_var_length_resonator_3": "6700um",
+    "design_var_length_resonator_4": "6300um",
+    "design_var_length_resonator_5": "5900um",
+
+    "design_var_coupl_length_qubit_1_resonator_1": "100um",
+    "design_var_coupl_length_qubit_2_resonator_2": "100um",
+    "design_var_coupl_length_qubit_3_resonator_3": "100um",
+    "design_var_coupl_length_qubit_4_resonator_4": "100um",
+    "design_var_coupl_length_qubit_5_resonator_5": "100um",
+
+    "design_var_coupl_length_resonator_1_tee": "400um",
+    "design_var_coupl_length_resonator_2_tee": "350um",
+    "design_var_coupl_length_resonator_3_tee": "300um",
+    "design_var_coupl_length_resonator_4_tee": "250um",
+    "design_var_coupl_length_resonator_5_tee": "200um",
+
+    "design_var_length_resonator_1_capacitance": "15um",
+    "design_var_length_resonator_2_capacitance": "15um",
+    "design_var_length_resonator_3_capacitance": "15um",
+    "design_var_length_resonator_4_capacitance": "15um",
+    "design_var_length_resonator_5_capacitance": "15um",
+
+    "design_var_length_coupler_1to3": "4500um",
+    "design_var_length_coupler_2to3": "4500um",
+    "design_var_length_coupler_3to4": "4500um",
+    "design_var_length_coupler_3to5": "4500um",
+
+    "design_var_cl_pos_x_qubit_1": "-100um",
+    "design_var_cl_pos_y_qubit_1": "0um",
+    "design_var_cl_pos_x_qubit_2": "-100um",
+    "design_var_cl_pos_y_qubit_2": "0um",
+    "design_var_cl_pos_x_qubit_3": "-100um",
+    "design_var_cl_pos_y_qubit_3": "0um",
+    "design_var_cl_pos_x_qubit_4": "-100um",
+    "design_var_cl_pos_y_qubit_4": "0um",
+    "design_var_cl_pos_x_qubit_5": "-100um",
+    "design_var_cl_pos_y_qubit_5": "0um"
+}
