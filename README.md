@@ -38,6 +38,8 @@ Design -> Check -> Sweep -> Compare -> Recommend
 **Best for: Quantum Fourier Transform (QFT)**
 
 ![Linear Topology](figures/Linear_topology.png)
+*(Klayout:)*
+![Linear Topology Klayout](figures/Linear_topology_klayout.png)
 
 The manufacturable baseline — single-layer routing, no extra process steps.
 Linear chains support QFT because each qubit interacts only with its neighbor, exactly matching the QFT's sequence of adjacent controlled-phase gates. The QFT circuit needs only nearest-neighbor interactions (Hadamard + controlled-phase gates between adjacent qubits), so a linear topology physically mirrors the algorithm — no long-range connections required.
@@ -230,6 +232,5 @@ Organized by the Alexandria Quantum Hackathon, supported by:
 - [Maya Mahmoud](https://www.linkedin.com/in/maya-anber/)
 
 ## Our Amazing Mentors
-- [Youssef Khaled](https://www.linkedin.com/in/youssif-khalid-654b872a5/)
 - [Menna Zaied](https://www.linkedin.com/in/menna-zaied-3434a52a3/)
-
+- [Youssef Khaled](https://www.linkedin.com/in/youssif-khalid-654b872a5/)
